@@ -34,11 +34,9 @@ All clip data lives in a single `data.json` file. Sakugabooru is used for the cl
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,json" />
-
 - Vanilla HTML, CSS, JavaScript — no frameworks or build tools
 - GitHub Pages for hosting
-- `data.json` fetched at runtime — no build step needed to update clips
+- data.json` fetched at runtime — no build step needed to update clips
 
 ## Contributing
 
