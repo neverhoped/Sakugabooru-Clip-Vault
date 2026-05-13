@@ -9,6 +9,8 @@ A visual clip library for anime editing communities. Browse, search, and organiz
 
 ---
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=600&lines=Advanced+Filtering;Fast+Search;Modern+UI" />
+
 ## Overview
 
 ClipVault is a static site built for my Discord Flow Archives that collect and share anime clips. Instead of clips getting lost in chat, they're organized in a browsable library with thumbnails, tags, and direct links.
