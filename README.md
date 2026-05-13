@@ -4,8 +4,6 @@
 
 A visual clip library for anime editing communities. Browse, search, and organize sakuga clips with a clean glassmorphism interface — no backend required.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=600&lines=Advanced+Filtering;Fast+Search;Modern+UI" />
-
 **[Website](https://neverhoped.github.io/Clip-Vault-Flow-Archives/)** · **[Discord](https://discord.gg/6qNtYym7dD)** · **[Support](https://buymeacoffee.com/xayvis)**
 </div>
 
@@ -35,6 +33,8 @@ All clip data lives in a single `data.json` file. Sakugabooru is used for the cl
 
 
 ## Tech Stack
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs" />
 
 - Vanilla HTML, CSS, JavaScript — no frameworks or build tools
 - GitHub Pages for hosting
