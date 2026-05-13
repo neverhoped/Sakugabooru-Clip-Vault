@@ -1,6 +1,10 @@
-# ClipVault — Flow Archives
+<div align="center">
+
+# Sakugabooru clip vault
 
 A visual clip library for anime editing communities. Browse, search, and organize sakuga clips with a clean glassmorphism interface — no backend required.
+
+</div>
 
 **[Website](https://neverhoped.github.io/Clip-Vault-Flow-Archives/)** · **[Discord](https://discord.gg/6qNtYym7dD)** · **[Support](https://buymeacoffee.com/xayvis)**
 
